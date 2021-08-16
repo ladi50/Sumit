@@ -1,0 +1,23 @@
+.menu {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-right: 2px solid black;
+}
+
+.menu > a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 10px 0;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu > a.active {
+    color: blue;
+    border-color: blue;
+}

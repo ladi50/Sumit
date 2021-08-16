@@ -1,0 +1,35 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.form > label {
+    margin: 10px 0;
+}
+
+.form > button {
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: 600;
+    background-color: white;
+    border-width: 2px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.form > button:hover {
+    color: white;
+    background-color: black;
+}
+
+.user {
+    padding: 40px;
+}
+
+.user > p {
+    width: 95%;
+    margin: 20px auto;
+}

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Meeting Number 1",
+        "meetingLength": 145.2,
+        "date": 1627909033,
+        "price": 32,
+        "participants": [
+            {
+                "name": "Kobi Refua",
+                "id": "s4312"
+            },
+            {
+                "name": "Liroy Tsairi",
+                "id": "s1019"
+            },
+            {
+                "name": "Rami Weitz",
+                "id": "s3134"
+            },
+            {
+                "name": "Effi and Hagit",
+                "id": "s1032"
+            },
+            {
+                "name": "Eden Kimhi",
+                "id": "s4328"
+            },
+            {
+                "name": "Asaf Soupfish",
+                "id": "s4212"
+            },
+            {
+                "name": "Omri Glasses",
+                "id": "s7593"
+            },
+            {
+                "name": "Ramzi Abed Ramzi",
+                "id": "s4320"
+            }
+        ]
+    },
+    {
+        "name": "Best meeting ever",
+        "meetingLength": 74,
+        "date": 1627822633,
+        "price": 61,
+        "participants": [
+            {
+                "name": "Sital Shavit",
+                "id": "s1312"
+            },
+            {
+                "name": "Hava Titinsky",
+                "id": "s1419"
+            },
+            {
+                "name": "Suf Stratiner",
+                "id": "s3734"
+            }
+        ]
+    },
+    {
+        "name": "1x1",
+        "meetingLength": 35,
+        "date": 1626872233,
+        "price": 18,
+        "participants": [
+            {
+                "name": "Ofer Baranes",
+                "id": "s2254"
+            },
+            {
+                "name": "Animol Levin",
+                "id": "s9329"
+            }
+        ]
+    },
+    {
+        "name": "Basketball League",
+        "meetingLength": 85,
+        "date": 1626785833,
+        "price": 96,
+        "participants": [
+            {
+                "name": "Adi Asher",
+                "id": "s7392"
+            },
+            {
+                "name": "Roy Ferlandes",
+                "id": "s4329"
+            },
+            {
+                "name": "Deni Avdija",
+                "id": "s0232"
+            },
+            {
+                "name": "Dror Eidelman",
+                "id": "s4329"
+            }
+        ]
+    },
+    {
+        "name": "The one should be elipsis",
+        "meetingLength": 25,
+        "date": 1626185833,
+        "price": 57,
+        "participants": [
+            {
+                "name": "Rani Misho",
+                "id": "s9192"
+            },
+            {
+                "name": "Rita Malul",
+                "id": "s6629"
+            },
+            {
+                "name": "Aron Stein",
+                "id": "s1131"
+            },
+            {
+                "name": "Omer Ov",
+                "id": "s7020"
+            },
+            {
+                "name": "Deutch Eduard",
+                "id": "s1243"
+            }
+        ]
+    }
+]
